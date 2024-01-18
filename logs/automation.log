@@ -1,0 +1,42 @@
+20:01:36.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:36.355 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:36.394 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:36.396 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:36.398 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:36.462 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:36.483 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:36.484 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:36.486 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:36.505 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:36.529 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:36.530 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:36.532 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:36.578 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:36.609 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:01:36.610 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:01:36.613 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+20:01:36.637 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+20:01:36.727 [main] INFO  testCases.TC003_SignInDDT - **********Staring TC003_SignInDDt************
+20:01:36.727 [main] DEBUG testCases.TC003_SignInDDT - Capturing application debug logs....
+20:01:38.417 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn link on the home page..
+20:01:38.417 [main] INFO  testCases.TC003_SignInDDT - Entering vaild email and password..
+20:01:41.134 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn button
+20:01:44.686 [main] INFO  testCases.TC003_SignInDDT - **********Finshed TC003_SignInDDT************
+20:01:44.701 [main] INFO  testCases.TC003_SignInDDT - **********Staring TC003_SignInDDt************
+20:01:44.702 [main] DEBUG testCases.TC003_SignInDDT - Capturing application debug logs....
+20:01:46.276 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn link on the home page..
+20:01:46.276 [main] INFO  testCases.TC003_SignInDDT - Entering vaild email and password..
+20:01:49.250 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn button
+20:01:59.309 [main] INFO  testCases.TC003_SignInDDT - **********Finshed TC003_SignInDDT************
+20:01:59.323 [main] INFO  testCases.TC003_SignInDDT - **********Staring TC003_SignInDDt************
+20:01:59.324 [main] DEBUG testCases.TC003_SignInDDT - Capturing application debug logs....
+20:02:01.664 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn link on the home page..
+20:02:01.664 [main] INFO  testCases.TC003_SignInDDT - Entering vaild email and password..
+20:02:04.619 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn button
+20:02:14.688 [main] INFO  testCases.TC003_SignInDDT - **********Finshed TC003_SignInDDT************
+20:02:14.694 [main] INFO  testCases.TC003_SignInDDT - **********Staring TC003_SignInDDt************
+20:02:14.694 [main] DEBUG testCases.TC003_SignInDDT - Capturing application debug logs....
+20:02:16.768 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn link on the home page..
+20:02:16.768 [main] INFO  testCases.TC003_SignInDDT - Entering vaild email and password..
+20:02:20.214 [main] INFO  testCases.TC003_SignInDDT - Clicked on SignIn button
+20:02:24.828 [main] INFO  testCases.TC003_SignInDDT - **********Finshed TC003_SignInDDT************

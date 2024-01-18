@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-18T20:01:20 IST" name="Suite" finished-at="2024-01-18T20:02:25 IST" duration-ms="65000">
+    <groups>
+    </groups>
+    <test started-at="2024-01-18T20:01:20 IST" name="Test" finished-at="2024-01-18T20:02:25 IST" duration-ms="65000">
+      <class name="testCases.TC003_SignInDDT">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_SignInDDT@235834f2]" started-at="2024-01-18T20:01:20 IST" name="setup" finished-at="2024-01-18T20:01:34 IST" duration-ms="14030" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verify_SignInDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_SignInDDT@235834f2]" started-at="2024-01-18T20:01:36 IST" name="verify_SignInDDT" data-provider="SignInData" finished-at="2024-01-18T20:01:44 IST" duration-ms="8010" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sunil98@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sunil@1998]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SignInDDT -->
+        <test-method signature="verify_SignInDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_SignInDDT@235834f2]" started-at="2024-01-18T20:01:44 IST" name="verify_SignInDDT" data-provider="SignInData" finished-at="2024-01-18T20:01:59 IST" duration-ms="14619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sandy49@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sandy@245]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SignInDDT -->
+        <test-method signature="verify_SignInDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_SignInDDT@235834f2]" started-at="2024-01-18T20:01:59 IST" name="verify_SignInDDT" data-provider="SignInData" finished-at="2024-01-18T20:02:14 IST" duration-ms="15378" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anand@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[anand4512]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SignInDDT -->
+        <test-method signature="verify_SignInDDT(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC003_SignInDDT@235834f2]" started-at="2024-01-18T20:02:14 IST" name="verify_SignInDDT" data-provider="SignInData" finished-at="2024-01-18T20:02:24 IST" duration-ms="10138" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akash98@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akash@0909]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SignInDDT -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_SignInDDT@235834f2]" started-at="2024-01-18T20:02:24 IST" name="tearDown" finished-at="2024-01-18T20:02:25 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_SignInDDT -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
